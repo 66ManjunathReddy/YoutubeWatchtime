@@ -15,8 +15,8 @@ This script opens a specific YouTube video URL in multiple browser tabs to simul
 - Internet browser installed and set as default
 
 ## 🚀 How to Use
-1. Copy the script below into a `.py` file (e.g., `youtube_view_bot.py`)
+1. Download the script below into a `.py` file (e.g., `manzo-in.py`)
 2. Replace the `url` with your desired YouTube video link
 3. Run the script:
    ```bash
-   python youtube_view_bot.py
+   python manzo-in.py
